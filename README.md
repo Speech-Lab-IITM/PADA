@@ -1,6 +1,6 @@
-# PADA: Pruning Assisted Domain Adaptation
+# [PADA: Pruning Assisted Domain Adaptation](https://arxiv.org/abs/2203.16965)
 
-Paper tile: PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations. Submitted to Interspeech 2022. [Arxiv link](https://arxiv.org/abs/2203.16965).
+Paper tile: PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations. To Appear at IEEE SLT 2022. [arxiv link](https://arxiv.org/abs/2203.16965).
 
 As a part of this work, we study the effects of different pruning strategies (TAG, TAW and CD-TAW) in the PADA framework. Also, we study the effects of 3 variants of pruning frequencies (Once, Iterative, Dynamic Iterative) which can be applied along-side each of these pruning strategies.
 
